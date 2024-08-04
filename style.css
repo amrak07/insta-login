@@ -112,6 +112,7 @@
     font-size: 10px;
     margin-bottom: 30px;
     text-decoration: none;
+    color: black;
 }
 .fp:active{
     opacity: 0.5;
